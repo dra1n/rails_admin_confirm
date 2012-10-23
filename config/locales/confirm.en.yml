@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      confirm:
+        title: "Confirm"
+        menu: "Confirm user"
+        breadcrumb: "Confirm"
+        link: "Confirm"
+        bulk_link: "Confirm selected users"
+        done: "Confirmed"
